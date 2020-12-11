@@ -415,7 +415,7 @@
           "HasAccount": false,
           "HasValidationErrors": false
         }
-      ],
+      ], 
       "CreditNotes": [
         {
           "CreditNoteID": "eb75c5d2-925e-4201-8944-e7f4c69a3518",
